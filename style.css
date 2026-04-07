@@ -3,7 +3,7 @@ header {
     position: sticky;
     border-radius: 50px;
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(245, 206, 211);
+    background-color: rgb(233, 229, 192);
 }
 
 
@@ -11,6 +11,8 @@ body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    background-image: url(assets/ChatGPT\ Image\ 7\ de\ abr.\ de\ 2026\,\ 11_59_43.png);
+    background-size: cover;
 }
 
 div{
