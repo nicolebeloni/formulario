@@ -3,4 +3,16 @@ header {
     position: sticky;
     border-radius: 50px;
     font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(245, 206, 211);
+}
+
+
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+div{
+    margin: 20px;
 }
